@@ -66,11 +66,7 @@ public class ControleSonic : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position - new Vector3(0, 0.09f, 0), 0.05f);
     }
 
-    //tosquera: Vamos acertar isso na segunda parte da aula
-    // private void OnCollisionEnter2D(Collision2D collision)
-    // {
-    //     GetComponent<Animator>().SetBool("NOCHAO", true);
-    // }
+	//saporra vai aparecer no novo branch
 
 
 }
